@@ -7,7 +7,7 @@ Welcome to **Jag-GeneratorQR**, a web application that allows users to generate 
 ## 🤖Live Demo
 ---------
 
-<a href="https://jagratimehta410.github.io/Jag-GeneratorQR/" target="_blank">Live 👉 Click to Participate in Quiz !</a>
+<a href="https://jagratimehta410.github.io/Jag-GeneratorQR/" target="_blank">Live 👉 Click to Generate QR !</a>
 ## 📹 Demo Video
 
 Watch the working video of the application here: 
