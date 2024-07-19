@@ -8,8 +8,7 @@ Welcome to **Jag-GeneratorQR**, a web application that allows users to generate 
 
 Watch the working video of the application here: 
 
-https://github.com/user-attachments/assets/5b1b1eca-18d6-4151-9296-07016acb47f3
-
+https://github.com/user-attachments/assets/ed2784fd-56d3-449b-8652-16a8500e329d
 
 ## 🛠️ Features
 
