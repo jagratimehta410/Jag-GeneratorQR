@@ -4,6 +4,10 @@
 
 Welcome to **Jag-GeneratorQR**, a web application that allows users to generate QR codes from text or URLs. Built using HTML, CSS, and JavaScript, this project provides a user-friendly interface for creating, customizing, and downloading QR codes. It's a practical tool for learning web development and QR code generation techniques.
 
+## 🤖Live Demo
+---------
+
+<a href="https://jagratimehta410.github.io/Jag-GeneratorQR/" target="_blank">Live 👉 Click to Participate in Quiz !</a>
 ## 📹 Demo Video
 
 Watch the working video of the application here: 
